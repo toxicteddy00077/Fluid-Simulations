@@ -1,6 +1,6 @@
 # Fluid-Simulations
 
-    ## Description:
+## Description:
 
     A 2D fluid simulation written in vanilla OpenGL alongside parallel rendering with OpenMP. The Physics for the simulation can be simply attributed to Jos Stam's paper[https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/StamFluidforGames.pdf],
     which broke down to 3 primary forces:
